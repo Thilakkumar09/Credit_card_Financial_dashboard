@@ -9,6 +9,7 @@ Steps:
 3. Design Dashboard & Insights.
 
 Insights :
+
 •  Revenue increased by 28.8%
 
 •  Overall revenue is 57M
