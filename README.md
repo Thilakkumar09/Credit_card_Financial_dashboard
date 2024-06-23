@@ -1,4 +1,4 @@
-# Credit_card_Finanical_dashbaord
+# Credit_card_Finacial_dashboard
 Power BI Dashboard for Credit Card Transactions! 
 
 Objective:To create a comprehensive weekly dashboard for credit card operations, providing real-time insights and key performance metrics for stakeholders to monitor and analyze effectively.
